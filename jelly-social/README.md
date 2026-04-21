@@ -2,7 +2,7 @@
 
 > Multi-platform social media AI agent powered by Claude Code — X/Twitter, Reddit, Discord, Telegram, LinkedIn, and TikTok.
 
-**GitHub:** [github.com/jelly-chain/jelly-social](https://github.com/jelly-chain/jelly-social)
+**GitHub:** [github.com/jelly-chain/Extension/jelly-social](https://github.com/jelly-chain/Extension/jelly-social)
 
 ---
 
@@ -32,9 +32,9 @@ Jelly-Social is a launch wrapper for [Claude Code](https://github.com/anthropics
 
 ```bash
 # 1. Clone the three Jelly-Social repos into the same parent folder
-git clone https://github.com/jelly-chain/jelly-social
-git clone https://github.com/jelly-chain/jelly-social-skills
-git clone https://github.com/jelly-chain/jelly-social-agents
+git clone https://github.com/jelly-chain/Extension/jelly-social
+git clone https://github.com/jelly-chain/Extension/jelly-social-skills
+git clone https://github.com/jelly-chain/Extension/jelly-social-agents
 
 # 2. Run the setup wizard (one time only)
 cd jelly-social
@@ -50,9 +50,9 @@ bash jelly-social.sh
 ### Windows (PowerShell)
 
 ```powershell
-git clone https://github.com/jelly-chain/jelly-social
-git clone https://github.com/jelly-chain/jelly-social-skills
-git clone https://github.com/jelly-chain/jelly-social-agents
+git clone https://github.com/jelly-chain/Extension/jelly-social
+git clone https://github.com/jelly-chain/Extension/jelly-social-skills
+git clone https://github.com/jelly-chain/Extension/jelly-social-agents
 
 cd jelly-social
 .\setup.ps1
@@ -107,9 +107,9 @@ Get one at [openrouter.ai/keys](https://openrouter.ai/keys)
 
 | Repo | Purpose |
 |------|---------|
-| [jelly-chain/jelly-social](https://github.com/jelly-chain/jelly-social) | This repo — launcher + setup |
-| [jelly-chain/jelly-social-skills](https://github.com/jelly-chain/jelly-social-skills) | 6 skills (Twitter, Reddit, Discord, Telegram, LinkedIn, TikTok) |
-| [jelly-chain/jelly-social-agents](https://github.com/jelly-chain/jelly-social-agents) | 6 agent templates |
+| [jelly-chain/jelly-social](https://github.com/jelly-chain/Extension/jelly-social) | This repo — launcher + setup |
+| [jelly-chain/jelly-social-skills](https://github.com/jelly-chain/Extension/jelly-social-skills) | 6 skills (Twitter, Reddit, Discord, Telegram, LinkedIn, TikTok) |
+| [jelly-chain/jelly-social-agents](https://github.com/jelly-chain/Extension/jelly-social-agents) | 6 agent templates |
 
 ---
 
