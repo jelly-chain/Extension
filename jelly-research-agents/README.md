@@ -2,7 +2,7 @@
 
 > 6 ready-to-use agent templates for the Jelly-Research multi-tool research AI agent.
 
-**GitHub:** [github.com/jelly-chain/jelly-research-agents](https://github.com/jelly-chain/jelly-research-agents)
+**GitHub:** [github.com/jelly-chain/Extension/jelly-research-agents](https://github.com/jelly-chain/Extension/jelly-research-agents)
 
 Each agent is a pre-configured Claude Code sub-agent you can summon with the `/agent` command. Agents come pre-loaded with the right skills, workflows, and behavior guidelines for specific research tasks.
 
