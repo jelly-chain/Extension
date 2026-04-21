@@ -2,7 +2,7 @@
 
 > 6 skills for the Jelly-AI agent — OpenAI, Groq, Replicate, ElevenLabs, Stability AI, and OpenRouter.
 
-**GitHub:** [github.com/jelly-chain/jelly-ai-skills](https://github.com/jelly-chain/jelly-ai-skills)
+**GitHub:** [github.com/jelly-chain/Extension/jelly-ai-skills](https://github.com/jelly-chain/Extension/jelly-ai-skills)
 
 ---
 
