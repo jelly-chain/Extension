@@ -2,7 +2,7 @@
 
 > 6 ready-to-use agent templates for the Jelly-Social multi-platform social media AI agent.
 
-**GitHub:** [github.com/jelly-chain/jelly-social-agents](https://github.com/jelly-chain/Extension/jelly-social-agents)
+**GitHub:** [github.com/jelly-chain/Extension/jelly-social-agents](https://github.com/jelly-chain/Extension/jelly-social-agents)
 
 Each agent is a pre-configured Claude Code sub-agent you can summon with the `/agent` command. Agents come pre-loaded with the right skills, prompts, and workflows for specific social media tasks.
 
