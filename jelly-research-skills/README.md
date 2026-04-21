@@ -2,7 +2,7 @@
 
 > 6 skills for the Jelly-Research AI agent — Perplexity, Exa, NewsAPI, SerpAPI, Tavily, and Firecrawl.
 
-**GitHub:** [github.com/jelly-chain/jelly-research-skills](https://github.com/jelly-chain/jelly-research-skills)
+**GitHub:** [github.com/jelly-chain/Extension/jelly-research-skills](https://github.com/jelly-chain/Extension/jelly-research-skills)
 
 Skills teach [Claude Code](https://github.com/anthropics/claude-code) how to search the web, synthesise research, monitor news, and extract web content. Install them and the agent gains instant expertise in research automation.
 
