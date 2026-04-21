@@ -2,7 +2,7 @@
 
 > 6 ready-to-use AI agent templates for the Jelly-AI multi-tool agent.
 
-**GitHub:** [github.com/jelly-chain/jelly-ai-agents](https://github.com/jelly-chain/jelly-ai-agents)
+**GitHub:** [github.com/jelly-chain/Extension/jelly-ai-agents](https://github.com/jelly-chain/Extension/jelly-ai-agents)
 
 ---
 
