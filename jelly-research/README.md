@@ -2,7 +2,7 @@
 
 > Multi-tool research AI agent powered by Claude Code — Perplexity, Exa, NewsAPI, SerpAPI, Tavily, and Firecrawl.
 
-**GitHub:** [github.com/jelly-chain/jelly-research](https://github.com/jelly-chain/jelly-research)
+**GitHub:** [github.com/jelly-chain/jelly-research](https://github.com/jelly-chain/Extension/jelly-research)
 
 ---
 
@@ -50,9 +50,9 @@ bash jelly-research.sh
 ### Windows (PowerShell)
 
 ```powershell
-git clone https://github.com/jelly-chain/jelly-research
-git clone https://github.com/jelly-chain/jelly-research-skills
-git clone https://github.com/jelly-chain/jelly-research-agents
+git clone https://github.com/jelly-chain/Extension/jelly-research
+git clone https://github.com/jelly-chain/Extension/jelly-research-skills
+git clone https://github.com/jelly-chain/Extension/jelly-research-agents
 
 cd jelly-research
 .\setup.ps1
@@ -122,9 +122,9 @@ You don't need all 6 keys. Start with the ones you have.
 
 | Repo | Purpose |
 |------|---------|
-| [jelly-chain/jelly-research](https://github.com/jelly-chain/jelly-research) | This repo — launcher + setup |
-| [jelly-chain/jelly-research-skills](https://github.com/jelly-chain/jelly-research-skills) | 6 research API skills |
-| [jelly-chain/jelly-research-agents](https://github.com/jelly-chain/jelly-research-agents) | 6 agent templates |
+| [jelly-chain/jelly-research](https://github.com/jelly-chain/Extension/jelly-research) | This repo — launcher + setup |
+| [jelly-chain/jelly-research-skills](https://github.com/jelly-chain/Extension/jelly-research-skills) | 6 research API skills |
+| [jelly-chain/jelly-research-agents](https://github.com/jelly-chain/Extension/jelly-research-agents) | 6 agent templates |
 
 ---
 
