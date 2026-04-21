@@ -2,7 +2,7 @@
 
 > 6 skills for the Jelly-Social AI agent — X/Twitter, Reddit, Discord, Telegram, LinkedIn, and TikTok.
 
-**GitHub:** [github.com/jelly-chain/jelly-social-skills](https://github.com/jelly-chain/jelly-social-skills)
+**GitHub:** [github.com/jelly-chain/Extension/jelly-social-skills](https://github.com/jelly-chain/Extension/jelly-social-skills)
 
 Skills teach [Claude Code](https://github.com/anthropics/claude-code) how to interact with social media platforms and messaging APIs. Install them and the agent gains instant expertise.
 
@@ -55,7 +55,7 @@ skills/<skill-name>/
 1. Create a folder under `skills/your-skill-name/`
 2. Add `SKILL.md`, `install.sh`, `install.ps1`, `README.md`, `.keys.example`
 3. The installer pattern is the same for all skills — copy from any existing one
-4. Send a PR to [github.com/jelly-chain/jelly-social-skills](https://github.com/jelly-chain/jelly-social-skills)
+4. Send a PR to [github.com/jelly-chain/Extension/jelly-social-skills](https://github.com/jelly-chain/Extension/jelly-social-skills)
 
 ---
 
