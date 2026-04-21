@@ -14,9 +14,9 @@ An AI-powered traditional finance agent system built on Claude Code. Combines si
 
 ```bash
 # 1. Clone all three repos (side by side)
-git clone https://github.com/jelly-chain/jelly-forex.git
-git clone https://github.com/jelly-chain/jelly-forex-skills.git
-git clone https://github.com/jelly-chain/jelly-forex-agents.git
+git clone https://github.com/jelly-chain/Extension/jelly-forex.git
+git clone https://github.com/jelly-chain/Extension/jelly-forex-skills.git
+git clone https://github.com/jelly-chain/Extension/jelly-forex-agents.git
 
 # 2. Run setup (installs skills, agents, saves keys)
 cd jelly-forex
